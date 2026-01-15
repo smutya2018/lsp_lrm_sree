@@ -1,3 +1,4 @@
+#in sreeram mutya's branch
 1. Use access system call to check the read, write & executable access for the file
 2. Use fcntl system call to place the write lock on the file
 3. Use fcntl system call to place the read lock on the file and try the following:
